@@ -1,0 +1,12 @@
+Assignment:SOLUTION
+<hr>
+XCOPY:Copies files and directory trees.
+RMDIR:Removes a directory.
+VER:Displays the Windows version.
+TIME:Displays or sets the system time.
+Tree:Graphically displays the directory structure of a drive or path
+START:Starts a separate window to run a specified program or command.
+COLOR:Sets the default console foreground and background colors.
+DATE:Displays or sets the date.
+SHUTDOWN:Allows proper local or remote shutdown of machine.
+finish

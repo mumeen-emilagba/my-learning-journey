@@ -1,0 +1,12 @@
+What i was thought yesterday
+del:Used to delete one files or more
+cls:Used to clear screen
+dir:Used to display a list of file and subdirectories in a directory.
+Md:Used to create a directory
+mkdir:Also used to creates a directory.
+RENAME:Renames a file or files.
+REN:Renames a file or files.
+
+
+
+
