@@ -1,0 +1,6 @@
+                      TODAY'S LESSON
+1)Learned how to use Git
+2)Learned how to use Git command,eg:init,status,add,commit,branch,diff,remote,push,clone.
+3)Learned how to create repository in two different:a)Online first b)offline first
+4)Learned how to push you work 5)GIT IS USED IN DIFFERENT ASPECT
+             THAT'S THE END
