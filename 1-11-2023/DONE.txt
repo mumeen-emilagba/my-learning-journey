@@ -1,0 +1,4 @@
+                      TODAY'S LESSON
+
+1)rm -rf .git :to remove git in an unwanted file or folder
+2) learned how to you use branch 
