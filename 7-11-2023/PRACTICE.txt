@@ -1,0 +1,48 @@
+				\TODAY'S WORK /
+				 \-----------/
+CSS-LINKS
+   |
+   V
+VISITED
+HOVER
+ACTIVE
+				CSS LIST
+				________                                     
+ordered list
+_____________
+LIST-STYLE-TYPE Eg
+LOWER-ALPHA
+GEORGIAN
+DECIMAL LEADING 0
+DISC
+CIRCLE
+UPPER-ROMAN
+
+unordered list
+_______________
+LIST-STYLE-TYPE Eg
+Square
+List-style-position:inside,outside.
+List-style-image
+
+nth-child(2,even,odd)
+
+MARKER
+______
+
+CONTENT
+                                CSS DISPLAY
+eg:				____________
+block level element
+inline level element
+
+properties: 
+___________
+display:inline-block
+				FLOATS				_______
+This enables you to be able to float text in any direction
+
+
+
+
+ 
