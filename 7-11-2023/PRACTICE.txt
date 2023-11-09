@@ -39,8 +39,9 @@ inline level element
 properties: 
 ___________
 display:inline-block
-				FLOATS				_______
-This enables you to be able to float text in any direction
+
+
+
 
 
 

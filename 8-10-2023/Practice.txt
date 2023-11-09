@@ -1,0 +1,12 @@
+			TODAY'S LEARNING			________________
+Float: This is the way which text is being moved from one position to another 
+example
+
+float right 
+float left
+clear
+overflow: auto;
+
+
+				COLUMNS				________This enables you to be able to create columns for each of your workcolumns-countcolumn-width 
+column-rulecolumn span				POSITIONS__________________________________________________________________________________This is the another way of getting a text in a particular angle of the page				PROPERTIES__________________________________________________________________________________POSITIONTOP LEFT
