@@ -1,0 +1,35 @@
+				TODAY'S WORK
+___________________________________________________________________________________________
+		       \ 			       /
+			\	CSS FLEXBOX           /
+                         \___________________________/
+	
+display
+justify-content
+align items
+flex-direction
+gap
+flex-wrap
+flex-flow
+aling-content
+flex-grow
+flex-basis
+flex-shrink
+order
+			_____________________________
+                             \                   /
+			      \	   CSS GRID     /
+			       \_______________/
+
+grid-auto-flow
+grid-template-colums
+grid auto row 
+row-gap
+grid-column-start
+grid-column-end
+place content
+			
+				
+			__________________________________
+                              \                    /				                               \    CSS IMAGES    /
+                                \________________/

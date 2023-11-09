@@ -9,4 +9,4 @@ overflow: auto;
 
 
 				COLUMNS				________This enables you to be able to create columns for each of your workcolumns-countcolumn-width 
-column-rulecolumn span				POSITIONS__________________________________________________________________________________This is the another way of getting a text in a particular angle of the page				PROPERTIES__________________________________________________________________________________POSITIONTOP LEFT
+column-rulecolumn span				POSITIONS__________________________________________________________________________________This is the another way of getting a text in a particular angle of the page				PROPERTIES__________________________________________________________________________________POSITIONTOP LEFTz-index
