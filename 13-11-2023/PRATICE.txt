@@ -1,0 +1,29 @@
+                      		TODAY'S LESSON
+__________________________________________________________________________________________
+				VARIABLES
+__________________________________________________________________________________________
+
+FOR COLOR
+--BGCOLOR
+--RADIAL-COLOR
+--LIGHT-COLOR
+--ALT-BGCOLOR
+--DARK-COLOR
+
+FOR FONTS
+--FF:FONT FAMILY
+--FS=FONT SIZE
+--FS-XL=FONT SIZE XTRA LARGE
+  
+
+				FUNCTIONS
+___________________________________________________________________________________________
+
+min= It always going to select the smallest of the two value available
+max= it is always choose the larger value.
+clamp= This is for minimum,idle and maximum value.
+fliter:brightness,hue-rotate
+attr:data-tooltip
+
+			   ANIMATIONS
+______________________________________________________________|__________________

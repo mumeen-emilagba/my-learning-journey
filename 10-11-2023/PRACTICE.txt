@@ -15,4 +15,32 @@ BACKGROUND -CLIP
 ___________________________________________________________________________________
 
                            CSS Media Queries
-__________________________________________________________________________________
+______________________________
+
+
+
+				__PSEUDO__
+THIS CLASS INCLUDES BOTH PSEUDO CLASSES AND PSEUDO ELEMENT
+
+PSEUDO CLASS: THIS IS SELECTOR THAT SELECT ELEMENT DURING A SPECIFIC STATE
+Instead of using nav(2) you can just use (is) instead
+Instead of link and visited you can also use (any link)
+IS:it's used to adapt what has the higher specificity
+WHERE:This does not work with specificity 
+TARGET:This is used to select a targeted element
+
+                          
+				VARIABLES
+__________________________________________________________________________________________
+
+FOR COLOR
+--BGCOLOR
+--RADIAL-COLOR
+--LIGHT-COLOR
+--ALT-BGCOLOR
+--DARK-COLOR
+
+FOR FONTS
+--FF:FONT FAMILY
+--FS=FONT SIZE
+--FS-XL=FONT SIZE XTRA LARGE
