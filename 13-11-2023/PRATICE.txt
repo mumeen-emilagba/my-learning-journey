@@ -26,4 +26,7 @@ fliter:brightness,hue-rotate
 attr:data-tooltip
 
 			   ANIMATIONS
-______________________________________________________________|__________________
+______________________________________________________________|____________________________
+
+transform:translate,translateY,rotateY,rotateX,rotateZ,scale,scaleY,scaleX,skewY,skewX,skew
+transition-delay,transition,duration,transition-timing-function,transition
