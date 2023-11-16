@@ -1,0 +1,23 @@
+			  TODAY'S LEARNING
+___________________________________________________________________________________________
+
+		FIRST EXPERIENCE ABOUT JAVASCRIPT
+		___________________________________
+
+WHAT IS JAVASCRIPT__________________
+
+
+
+
+
+                         SECTION 1
+___________________________________________________________________________________________
+
+Building a passenger counter app
+ count
+ console 
+ 
+I understand nothing about Javascript
+
+
+
