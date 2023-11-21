@@ -1,0 +1,11 @@
+				TODAY'S LEARNING 
+___________________________________________________________________________________________
+
+Reassigning and incrementing
+Basic mathematical operations
+Building a passanger counter app!
+Adding a button
+Writing your first function
+Write a function thats logs the sum
+Writimg a function that increment
+ 
