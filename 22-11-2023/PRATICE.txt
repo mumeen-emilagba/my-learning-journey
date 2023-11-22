@@ -1,0 +1,19 @@
+					TODAY'S  LEARNING
+__________________________________________________________________________________
+
+
+
+
+Var(Global Scope)
+Const/Let(Block Scope)
+
+
+Log a greeting to the console
+Render a welcome message
+Improving the message with string concatenation
+Using plus equal for count
+Debuging online
+Congrats and recap
+Variable practice 
+Contatenate two string in a function
+
