@@ -1,0 +1,7 @@
+								TODAY'S LEARNING
+________________________________________________________________________________________________________________________________________________________________________
+
+The Document object model
+Display the count with innertext
+What is string
+Writing first string variables
