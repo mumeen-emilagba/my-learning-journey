@@ -1,0 +1,12 @@
+			TODAY'S LEARNING
+___________________________________________________________________________________
+
+Incrementing and decrementing
+Strings and Numbers
+Rendering an error message
+Building Blackjack
+Calculator Challenge
+Add the firstCard, secondCard,and sum
+Your first if...else statement
+if/else...if/else statement
+The if..else statement for our game
