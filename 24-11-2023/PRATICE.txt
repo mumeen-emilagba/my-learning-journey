@@ -1,0 +1,32 @@
+			Today's Learning
+__________________________________________________________________________________
+
+
+Add the message variable.
+Link to stylesheet.
+Add basic styling.
+Make the start button work.
+Display the message.
+Display the sum.
+New card button.
+Add to the sum when newCard is clicked.
+Intro into arrays.
+Arrays with multiple data types.
+Adding and removing items from arrays.
+Creating the cards array.
+Push a new card to the array.
+Conting in JavaScript.
+Writing our first loop.
+For loops and Arrrays.
+Writing first array-based loop.
+For Loops, Array ,DOM.
+Use a loop to render cards.
+How can we avoid to hard-cod cards values?.
+Returning values in functions.
+Using a function to set the card values.
+Generating random numbers with Math.random.
+Math.random() *6.
+Using Math.random() and Math.floor() to create a dice.
+Completing our dice function
+Complet get random number function
+Assign Values in the start game function
