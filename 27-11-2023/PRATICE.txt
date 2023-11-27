@@ -1,0 +1,11 @@
+			TODAY'S LEARNING
+________________________________________________________________________________
+
+Our new card feature is broken.
+The logical and operator.
+Only trigger newCard if you're alowed to.
+Object sneak peek.
+Intro to Objects.
+Creating first object.
+Using object to store player data.
+Methods an object.
