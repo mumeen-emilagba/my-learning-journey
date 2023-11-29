@@ -1,0 +1,13 @@
+			TODAY'S LEARNING
+__________________________________________________________________________________
+
+
+
+Methods an object.
+Congrats & Recap.
+Object and Functions.
+Loops and Arrays.
+If else.
+Push, pop,unshift,shift challenge.
+Logical operators.
+Rock paper scissors.
