@@ -1,0 +1,16 @@
+			TODAYS LEARNING
+__________________________________________________________________________________
+
+
+Sorting Fruits.
+Building a chorme extension.
+Let's build a Chorme Extension.
+Add button and input tag.
+Make the input button work with onclick.
+Write your first addEventListener.
+Your turn to refactor.
+Create the myleads array and inputEL.
+Push the value from the input field.
+Use a for loop to log out leads.
+Create the unordered list.
+ 
