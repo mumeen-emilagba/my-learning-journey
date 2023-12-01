@@ -1,0 +1,11 @@
+				TODAY'S LEARNING
+___________________________________________________________________________________________
+
+Congrats and recap.
+Pratice Time.
+Log out item in array.
+Save to local storage.
+Add event listener and object in array.
+Generate sentence.
+Render images.
+Learn Javascript -outro
