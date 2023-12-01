@@ -1,0 +1,36 @@
+				TODAY LEARNING
+__________________________________________________________________________________
+
+
+Render the leads in unordered list.
+How to render li elements with innerHtml.
+Use create element and append instead of inner html.
+Improving the performance of our app.
+Create the render function.
+Clear the input field.
+Add the a tag.
+Template Strings.
+Style the list.
+Preparing the deployment.
+Deploying the chrome extension.
+What is local storage.
+First local storage.
+Storing arrays in localstorage.
+Save the leads to localStorage.
+Get the leads from localstorage.
+Truthy and falsy statements.
+Guess the expression truthy or falsy.
+Checking localStorage before rendering.
+Styling the delete button.
+Make the delete button work.
+How function parameters can  improve our code.
+Function with multiple parameters.
+Numbers as functions parameters.
+Arguments vs parameters.
+Arrays as parameter.
+Refactor renderLeads to use a parameter.
+Create the tabBtn.
+Save the tab url.
+How to get current tab.
+Use the Chorme API to get the tab.
+Deploy the finish version.
