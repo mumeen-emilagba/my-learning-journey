@@ -1,0 +1,5 @@
+				Learned
+____________________________________________________________________________________________
+
+How to extract an ziped file
+How to use nvm and node
