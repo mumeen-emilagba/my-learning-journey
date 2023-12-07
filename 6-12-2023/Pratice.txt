@@ -1,0 +1,8 @@
+				TODAY'S LEARNING
+__________________________________________________________________________________________
+Creating react app.
+Initing react app.
+Start the react app.
+Fundamental.
+Deleting your source folder.
+Making your own src folder.
