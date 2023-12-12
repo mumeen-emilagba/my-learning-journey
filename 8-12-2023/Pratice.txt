@@ -1,0 +1,7 @@
+				Today's Learnings__________________________________________________________________________________
+
+CamelCase property naming convention.
+Nest components.
+Book List.
+Create a css file in the src folder.
+Local images (Public Folder).
