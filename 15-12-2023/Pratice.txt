@@ -1,0 +1,9 @@
+				Today's Learning
+__________________________________________________________________________________
+Working with arrays.
+Cant render object in array.
+Creates a new array from calling a function for every array elements.
+Proper List.
+Render components
+
+Pass properties one by one.
